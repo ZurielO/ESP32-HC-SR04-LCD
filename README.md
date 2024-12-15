@@ -36,8 +36,8 @@ En la pantalla LCD también se imprimen mensajes estáticos como "MODULO V", "AI
 Finalmente, la distancia medida también se envía al monitor serial para su visualización.
 
 ![Texto alternativo](https://github.com/ZurielO/ESP32-HC-SR04-LCD/blob/main/imagen_2024-12-15_165455011.png).
-fghjk
-![Texto alternativo](https://github.com/ZurielO/ESP32-HC-SR04-LCD/blob/main/imagen_2024-12-15_165455011.png).
+
+![Texto alternativo](https://github.com/ZurielO/ESP32-HC-SR04-LCD/blob/main/imagen_2024-12-15_165522309.png).
 
 Flujo de Ejecución:
 
