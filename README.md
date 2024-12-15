@@ -34,6 +34,11 @@ Usando la función pulseIn(), se mide el tiempo que tarda el eco en regresar al 
 El valor calculado de la distancia se muestra en la pantalla LCD en la primera línea.
 En la pantalla LCD también se imprimen mensajes estáticos como "MODULO V", "AIyM", "Zuriel Osio", e "I.E.E." en diferentes intervalos, cada uno acompañado de una pausa de 2 segundos (delay(2000)).
 Finalmente, la distancia medida también se envía al monitor serial para su visualización.
+
+![Texto alternativo](https://github.com/ZurielO/ESP32-HC-SR04-LCD/blob/main/imagen_2024-12-15_165455011.png).
+fghjk
+![Texto alternativo](https://github.com/ZurielO/ESP32-HC-SR04-LCD/blob/main/imagen_2024-12-15_165455011.png).
+
 Flujo de Ejecución:
 
 En cada iteración del bucle loop(), se mide la distancia con el sensor ultrasónico, se actualiza la pantalla LCD con la nueva distancia, y el valor también se envía al monitor serial.
