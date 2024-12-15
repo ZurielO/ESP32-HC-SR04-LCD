@@ -56,3 +56,6 @@ Conclusiones:
 El código demuestra cómo utilizar un sensor ultrasónico para medir la distancia y cómo visualizar esos datos en una pantalla LCD usando la comunicación I2C.
 La plataforma Wokwi es útil para simular y probar circuitos electrónicos sin necesidad de hardware físico, permitiendo experimentar con sensores y componentes de manera virtual.
 El uso de la función pulseIn() para medir el tiempo de regreso del pulso es eficiente para calcular la distancia del objeto.
+
+
+![Texto alternativo](https://github.com/ZurielO/ESP32-HC-SR04-LCD/blob/main/imagen_2024-12-15_165309684.png).
